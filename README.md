@@ -133,7 +133,3 @@ Example:
 ```
 
 ---
-
-## License
-MIT (or your choice).
-
